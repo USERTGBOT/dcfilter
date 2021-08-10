@@ -16,9 +16,14 @@
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
+        "DB_URI": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
             "value": ""
+            
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
